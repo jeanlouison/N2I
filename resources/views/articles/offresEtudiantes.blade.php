@@ -1,0 +1,3 @@
+<article>
+    Non implémentée
+</article>
